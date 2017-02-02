@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Productivity App</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format"> </string>
+    <string name="message">This is your calendar:</string>
+</resources>
